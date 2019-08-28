@@ -1,0 +1,4 @@
+authors = ["Joe Fowler <drjoefowler@gmail.com>"]
+name = "ARMA"
+repo = "https://github.com/joefowler/ARMA.jl"
+uuid = "cd9ce936-d6d7-11e8-0157-ada3f5245b07"
