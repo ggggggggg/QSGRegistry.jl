@@ -3,3 +3,4 @@ repo = "git@github.com:ggggggggg/QSGRegistry.jl.git"
 uuid = "eb067caa-c9e6-11e9-251d-818cfd6be9f4"
 
 [packages]
+cce409be-c91d-11e9-3263-d35f6180a8ba = { name = "ReferenceMicrocalFiles", path = "R/ReferenceMicrocalFiles" }

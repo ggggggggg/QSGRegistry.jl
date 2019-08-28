@@ -1,0 +1,4 @@
+authors = ["Joe Fowler <drjoefowler@gmail.com>"]
+name = "ReferenceMicrocalFiles"
+repo = "https://github.com/ggggggggg/ReferenceMicrocalFiles.jl"
+uuid = "cce409be-c91d-11e9-3263-d35f6180a8ba"
