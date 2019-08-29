@@ -1,0 +1,4 @@
+authors = ["Joseph Fowler <drjoefowler@gmail.com>"]
+name = "Pope"
+repo = "https://github.com/usnistgov/Pope.jl"
+uuid = "a30f7cd4-c816-11e9-3b7b-4b2248985146"
