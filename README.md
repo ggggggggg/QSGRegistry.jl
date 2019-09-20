@@ -12,6 +12,6 @@ dev Package
 # edit the package Project.tml to have a new version
 # push package
 using PackageName
-register(PackageName, "~/.julia/dev/QSGRegistry")
-run(`git -C ~/.julia/dev/QSGRegistry push`)
+register(PackageName, "~/.julia/registries/QSGRegistry")
+run(`git -C ~/.julia/registries/QSGRegistry push`)
 ```
